@@ -1,0 +1,16 @@
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\bin\Debug\Okul.exe.config
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\bin\Debug\Okul.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\bin\Debug\Okul.pdb
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.Form1.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.Properties.Resources.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.csproj.GenerateResource.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.pdb
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.FrmOgrenciNotlar.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.FrmOgretmen.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.FrmKulup.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.FrmDersler.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.frmogretmenler.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Okul\Okul\obj\Debug\Okul.Notlar.resources
