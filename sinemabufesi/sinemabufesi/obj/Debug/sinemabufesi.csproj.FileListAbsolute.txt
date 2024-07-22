@@ -1,0 +1,11 @@
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\bin\Debug\sinemabufesi.exe.config
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\bin\Debug\sinemabufesi.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\bin\Debug\sinemabufesi.pdb
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.Form1.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.Properties.Resources.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.csproj.GenerateResource.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\sinemabufesi\sinemabufesi\obj\Debug\sinemabufesi.pdb
