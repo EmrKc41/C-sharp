@@ -1,0 +1,33 @@
+Hocam selam ben Emirhan KOÇ programımın nasıl çalıştığını anlatacağım.
+
+Şimdi programı çalıştırmadan önce biraz tanıtıyım:
+
+	-Program ₺ Bazında Dünya da kullanılan 11 tane para biriminin 
+	 alım ve satımını yapıyor.
+	-Veriler TC Merkez Bankasından anlık olarak güncel çekiliyor.
+	-Sonrasında kişisel bilgiler girilerek dekont oluşturuluyor.
+	-Oluşan dekontu ise masaüstünüzde herhangi bir yere kaydedebiliyorsunuz.
+	-İşlemleri takip eden bir veri tabanı mevcut.
+
+Programın çalışma mantığı:
+	-Önünüze bir comboBox çıkıyor. Bu comboBox'ta herhangi bir
+	 para birimine tıkladığınız zaman o para biriminin Form u 
+	 açılıyor.
+	-Sonrasında satışa ekle butonuna basarsanız oluşturulacak olan
+	makbuzun satış kısmında ki kur textBox una  ekler, alışa ekle buttonuna basarsanız 
+	alış kısmında ki Kur textBox una ekler.
+ 	- Tarihler ay/gün/yıl şeklinde merkez bankasında güncellendiği için
+	bende öyle yapmak zorunda kaldım. Anlık olarak güncel saat ve tarih
+	verileri de mevcut.
+	-Ad Soyad kısmına kendi adınızı ve soyadınızı girebilirsiniz.
+	-Miktar yerine ise KAÇ TANE DOLAR almak veya satmak istiyosunuz onu giriyosunuz.
+	-Satış yap veya alış yap buttonuna tıklarsanız ise alacağınız veya vereceğiniz
+	toplam fiyatı Tutar kısmına yazdırır.
+	-Muhtemel buttonuna tıklarsanız ise Küsuratları hesaplamadan direk düz işlem yapar.
+	Ne kadar daha almanız veya eklemeniz gerektiğini KALAN kısmına yazdırır.
+	-En son ise Makbuz a basarsanız ise kendi bilgisayarınıza kaydedeceğiniz
+	konumu seçersiniz SaveDialog ile birlikte.
+	-Ekranınıza varsayılan tarayıcınız ile birlikte makbuz.pdf şeklinde dosya oluşur.
+Ve sonunda ise makbuzunuzu görüntülersiniz.
+
+Okuduğunu için çok teşekkürler :)

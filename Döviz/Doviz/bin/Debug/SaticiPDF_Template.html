@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <style>
+      body
+      {
+         background-color: #001;
+         color: aliceblue;
+      }
+      .custom-table {
+         border-collapse: collapse;
+         margin: 30px 20px;
+         border: 1px solid aliceblue;
+         font-size: 25px;
+      }
+
+      .custom-table th,
+      .custom-table td {
+         border: 1px solid aliceblue;
+         padding: 10px 40px;
+      }
+
+      .custom-table th {
+         font-weight: bold;
+      }
+
+      .row-container {
+         display: flex;
+         justify-content: center;
+      }
+
+      .row-container div {
+         flex-basis: 50%;
+      }
+
+      .footer {
+         bottom: 0;
+         left: 0;
+         border-top: 3px solid #fe9300;
+         padding: 5px 0;
+         text-align: center;
+         font-family: "Segoe UI, Open Sans, Arial, Helvetica";
+         width: 100%;   
+      }
+
+      .content {
+         min-height: 100vh;
+         padding-bottom: 100px;
+         /* Footer'ın yüksekliği kadar padding bırakın */
+      }
+
+      .footer-wrapper {
+
+         bottom: 0;
+         z-index: 999;
+      }
+   </style>
+</head>
+
+<body>
+
+   <div style="font-family:Segoe UI, Open Sans, Arial, Helvetica " class="content">
+      <table style="border: none; border-bottom: 3px solid aliceblue !important; padding: 10px 0; width: 100%">
+         <tr>
+            <td style="width: 20%;">
+               
+            </td>
+            <td style="width: 60%; text-align: center; font-size: 250%; font-weight: bold; font-family: Source Code Pro;">
+               DÖVİZ UYGULAMASI
+            </td>
+            <td style="width: 20%; text-align: right; font-weight: bold;">
+               Test Raporu - {{TarihSaat}}
+            </td>
+         </tr>
+      </table>
+      <div style="padding-top:10px;margin-bottom:-20px; font-weight:bold;font-size: 30px; text-align: center;">KUR BİLGİLERİ - UDID
+         {{tdUDID}}</div>
+      <div class="row-container">
+         <div>
+            <table style="margin-left: 22%;" class="custom-table">
+               <tr>
+                  <th>Satıcı Ad Soyad:</th>
+                  <td>{{SaticiAdSoyad}}</td>
+               </tr>
+               <tr>
+                  <th>Satış Tarihi</th>
+                  <td>{{SatisTarihi}}</td>
+               </tr>
+               <tr>
+                  <th>Kur</th>
+                  <td>{{Kur}}</td>
+               </tr>
+               <tr>
+                  <th>Miktar</th>
+                  <td>{{Miktar}}</td>
+               </tr>
+               <tr>
+                  <th>Tutar</th>
+                  <td>{{Tutar}}</td>
+               </tr>  
+               <tr>
+                  <th>Döviz</th>
+                  <td>{{Döviz}}</td>
+               </tr>
+            </table>
+         </div>
+      </div>       
+  </div>
+</body>
+</html>
