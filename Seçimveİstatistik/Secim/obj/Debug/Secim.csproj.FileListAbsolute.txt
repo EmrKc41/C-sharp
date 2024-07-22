@@ -1,0 +1,11 @@
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\bin\Debug\Secim.exe.config
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\bin\Debug\Secim.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\bin\Debug\Secim.pdb
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.FrmOyGiris.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.FrmGrafikler.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.Properties.Resources.resources
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.csproj.GenerateResource.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.exe
+C:\Users\Casper\OneDrive\Masaüstü\C#\Uyguamalar\Seçimveİstatistik\Secim\obj\Debug\Secim.pdb
